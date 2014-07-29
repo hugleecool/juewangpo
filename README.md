@@ -34,4 +34,4 @@ Deployment
 2. gaga
 
 ##WEBsite
-[juewangpo.sinaapp.com](juewangpo.sinaapp.com)
+[juewangpo.sinaapp.com](http://juewangpo.sinaapp.com)
